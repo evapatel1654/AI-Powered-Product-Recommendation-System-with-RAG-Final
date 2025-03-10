@@ -1,0 +1,154 @@
+.product-detail {
+  background-color: var(--card-background);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  padding: 2rem;
+  margin-top: 1rem;
+}
+
+.back-button {
+  background-color: transparent;
+  border: none;
+  color: var(--primary-color);
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+}
+
+.back-button:hover {
+  text-decoration: underline;
+}
+
+.product-header {
+  display: flex;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.product-image-large {
+  width: 200px;
+  height: 200px;
+  background-color: var(--primary-light);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.image-placeholder-large {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-placeholder-large span {
+  font-size: 4rem;
+  color: white;
+  font-weight: bold;
+}
+
+.product-header-info {
+  flex: 1;
+}
+
+.product-header-info h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--primary-dark);
+}
+
+.product-price-large {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.product-effects-large {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.effect-tag-large {
+  background-color: var(--primary-light);
+  color: var(--primary-dark);
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+.product-description-section, 
+.product-ingredients,
+.augmented-data-section {
+  margin-bottom: 2rem;
+}
+
+.product-description-section h3,
+.product-ingredients h3,
+.augmented-data-section h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.ingredients-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.ingredient-item {
+  background-color: #f5f5f5;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.augmented-data-section {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid var(--secondary-color);
+}
+
+.ingredient-details,
+.suggested-uses,
+.health-benefits {
+  margin-bottom: 1.5rem;
+}
+
+.ingredient-details h4,
+.suggested-uses h4,
+.health-benefits h4 {
+  color: var(--secondary-color);
+  margin-bottom: 0.8rem;
+}
+
+.ingredient-detail-card {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.ingredient-detail-card h5 {
+  margin-bottom: 0.5rem;
+  color: var(--primary-dark);
+}
+
+.suggested-uses ul,
+.health-benefits ul {
+  padding-left: 1.5rem;
+}
+
+.suggested-uses li,
+.health-benefits li {
+  margin-bottom: 0.5rem;
+}
