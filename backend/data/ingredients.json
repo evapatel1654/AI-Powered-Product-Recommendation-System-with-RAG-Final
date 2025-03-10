@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Chamomile",
+    "properties": "Mild, floral aroma; known for calming effects",
+    "common_effects": [
+      "relaxation",
+      "improved sleep",
+      "reduced anxiety"
+    ]
+  },
+  {
+    "name": "Lavender",
+    "properties": "Fragrant, floral scent; calming properties",
+    "common_effects": [
+      "relaxation",
+      "stress relief",
+      "improved sleep"
+    ]
+  },
+  {
+    "name": "Lemon Balm",
+    "properties": "Citrusy, fresh aroma; calming and uplifting",
+    "common_effects": [
+      "relaxation",
+      "mood improvement",
+      "stress relief"
+    ]
+  },
+  {
+    "name": "Green Tea",
+    "properties": "Contains caffeine and L-theanine; promotes alertness",
+    "common_effects": [
+      "energy boost",
+      "improved focus",
+      "antioxidant"
+    ]
+  },
+  {
+    "name": "Ginseng",
+    "properties": "Earthy flavor; natural energy booster",
+    "common_effects": [
+      "energy boost",
+      "mental clarity",
+      "immune support"
+    ]
+  },
+  {
+    "name": "Lemongrass",
+    "properties": "Citrusy, fresh flavor; invigorating",
+    "common_effects": [
+      "digestive aid",
+      "stress relief",
+      "refreshing"
+    ]
+  },
+  {
+    "name": "Peppermint",
+    "properties": "Cool, minty flavor; refreshing and soothing",
+    "common_effects": [
+      "digestive aid",
+      "breath freshening",
+      "cooling sensation"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "properties": "Spicy, warming flavor; stimulating",
+    "common_effects": [
+      "digestive aid",
+      "anti-inflammatory",
+      "circulation boost"
+    ]
+  },
+  {
+    "name": "Fennel",
+    "properties": "Licorice-like flavor; soothing to digestive system",
+    "common_effects": [
+      "digestive aid",
+      "anti-bloating",
+      "appetite regulation"
+    ]
+  },
+  {
+    "name": "Echinacea",
+    "properties": "Slightly bitter taste; immune supporting",
+    "common_effects": [
+      "immune support",
+      "anti-inflammatory",
+      "cold symptom reduction"
+    ]
+  },
+  {
+    "name": "Elderberry",
+    "properties": "Sweet, fruity flavor; rich in antioxidants",
+    "common_effects": [
+      "immune support",
+      "antioxidant boost",
+      "cold and flu relief"
+    ]
+  },
+  {
+    "name": "Rose Hip",
+    "properties": "Tart, fruity flavor; high in vitamin C",
+    "common_effects": [
+      "immune support",
+      "antioxidant boost",
+      "skin health"
+    ]
+  },
+  {
+    "name": "Valerian Root",
+    "properties": "Earthy, woody flavor; strong sedative properties",
+    "common_effects": [
+      "sleep aid",
+      "anxiety reduction",
+      "deep relaxation"
+    ]
+  },
+  {
+    "name": "Passionflower",
+    "properties": "Mild, subtle flavor; calming properties",
+    "common_effects": [
+      "relaxation",
+      "sleep aid",
+      "anxiety reduction"
+    ]
+  }
+]
