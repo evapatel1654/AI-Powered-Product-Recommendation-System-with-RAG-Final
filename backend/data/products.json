@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Relaxation Tea",
+    "type": "beverage",
+    "description": "A soothing herbal tea blend designed for relaxation and stress relief.",
+    "effects": [
+      "relaxation",
+      "stress relief"
+    ],
+    "ingredients": [
+      "Chamomile",
+      "Lavender",
+      "Lemon Balm"
+    ],
+    "price": 12.99,
+    "sales_data": {
+      "units_sold": 120,
+      "last_month_revenue": 1558.8
+    }
+  },
+  {
+    "id": 2,
+    "name": "Energy Boost Tea",
+    "type": "beverage",
+    "description": "An invigorating blend to boost energy and enhance focus.",
+    "effects": [
+      "energy boost",
+      "mental clarity"
+    ],
+    "ingredients": [
+      "Green Tea",
+      "Ginseng",
+      "Lemongrass"
+    ],
+    "price": 14.99,
+    "sales_data": {
+      "units_sold": 150,
+      "last_month_revenue": 2248.5
+    }
+  },
+  {
+    "id": 3,
+    "name": "Digestive Harmony Tea",
+    "type": "beverage",
+    "description": "A gentle blend that soothes digestion and promotes gut health.",
+    "effects": [
+      "digestive aid",
+      "gut health"
+    ],
+    "ingredients": [
+      "Peppermint",
+      "Ginger",
+      "Fennel"
+    ],
+    "price": 13.50,
+    "sales_data": {
+      "units_sold": 95,
+      "last_month_revenue": 1282.5
+    }
+  },
+  {
+    "id": 4,
+    "name": "Immune Support Tea",
+    "type": "beverage",
+    "description": "A robust blend designed to support the immune system.",
+    "effects": [
+      "immune support",
+      "antioxidant boost"
+    ],
+    "ingredients": [
+      "Echinacea",
+      "Elderberry",
+      "Rose Hip"
+    ],
+    "price": 15.99,
+    "sales_data": {
+      "units_sold": 110,
+      "last_month_revenue": 1758.9
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sleep Well Tea",
+    "type": "beverage",
+    "description": "A calming nighttime blend for improved sleep quality.",
+    "effects": [
+      "relaxation",
+      "sleep aid"
+    ],
+    "ingredients": [
+      "Chamomile",
+      "Valerian Root",
+      "Passionflower"
+    ],
+    "price": 13.99,
+    "sales_data": {
+      "units_sold": 135,
+      "last_month_revenue": 1888.65
+    }
+  }
+]
